@@ -101,11 +101,7 @@ douban:
     title: '阅读让人越来越低'
     quote: 'This is my book quote'
   movie:
-<<<<<<< HEAD
     title: '遇见另一个世界，遇见另一个心灵，遇见你自己'
-=======
-    title: '梦想要根植于现实'
->>>>>>> Update _config.yml
     quote: 'This is my movie quote'
   timeout: 10000
 
